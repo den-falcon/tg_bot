@@ -1,0 +1,9 @@
+common:
+  port: 8080
+database:
+  host: "aws-0-eu-central-1.pooler.supabase.com"
+  name: "postgres"
+  port: 6543
+  user:  "postgres.jppgimriegviexujndqt"
+  password: "03uXao55IUtaX2Iv"
+
